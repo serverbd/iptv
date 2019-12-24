@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0,Sony Ten 1 HD
 http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
+#EXTINF:0,Star Sports Select 2 HD
+http://103.121.36.238:8081/live/select2/chunks.m3u8
