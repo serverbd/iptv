@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Sony Ten 1 HD
+http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
